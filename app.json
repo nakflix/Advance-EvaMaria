@@ -19,7 +19,7 @@
     "repository": "https://github.com/8769ANURAG/EvaMaria",
     "env": {
         "BOT_TOKEN": {
-            "description": "5305968493:AAECdHuvJ49ZRHWmzxRdtUfK60_yAt7hCx0",
+            "description": "5305968493:AAFPekHxnbWjFHIy_7-63V2QK2nterb2Azs",
             "required": true
         },
         "API_ID": {
