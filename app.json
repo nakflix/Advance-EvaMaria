@@ -16,7 +16,7 @@
       "inline"
     ],
     "website": "https://github.com/8769ANURAG/EvaMaria",
-    "repository": "https://github.com/8769ANURAG/EvaMaria",
+    "repository": "https://github.com/nakflix/Advance-EvaMaria",
     "env": {
         "BOT_TOKEN": {
             "description": "5305968493:AAFPekHxnbWjFHIy_7-63V2QK2nterb2Azs",
@@ -63,7 +63,7 @@
             "required": false
         },
         "COLLECTION_NAME": {
-            "description": "Telegram_files",
+            "description": "Anurag_files",
             "value": "Anurag_files",
             "required": false
         }
